@@ -24,13 +24,13 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === '-2'){
-        message.channel.send('#credits  ! SToReD.#0241 10000')
+        message.channel.send('#credit @SToReD#0241 10000')
     }
 });
 
 client.on('message', message => {
     if(message.content === '-2'){
-        message.channel.send('#rep  ! SToReD.#0241')
+        message.channel.send('#rep @SToReD#0241')
     }
 });
 
@@ -42,31 +42,31 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === '-2'){
-        message.channel.send('#credits ! SToReD.#0241 10000')
+        message.channel.send('#credit @SToReD#0241 10000')
     }
 });
 
 client2.on('message', message => {
     if(message.content === '-2'){
-        message.channel.send('#rep ! SToReD.#0241')
+        message.channel.send('#rep @SToReD#0241')
     }
 });
 
 client3.on('message', message => {
     if(message.content === '-2'){
-        message.channel.send('#daily ! SToReD.#0241')
+        message.channel.send('#daily @SToReD#0241')
     }
 });
 
 client3.on('message', message => {
     if(message.content === '-2'){
-        message.channel.send('#credits ! SToReD.#0241 10000')
+        message.channel.send('#credit @SToReD#0241 10000')
     }
 });
 
 client3.on('message', message => {
     if(message.content === '-2'){
-        message.channel.send('#rep ! SToReD.#0241')
+        message.channel.send('#rep @SToReD#0241')
     }
 });
 
@@ -77,7 +77,7 @@ if (message.content === '!spam2') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**1**[ " ${x} " ]`)
+        message.channel.send(`11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111`)
           .then(m => {
             count++;
           })
@@ -91,7 +91,7 @@ if (message.content === '!spam2') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**2**[ " ${x} " ]`)
+        message.channel.send(`11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111`)
           .then(m => {
             count++;
           })
@@ -105,7 +105,7 @@ if (message.content === '!spam2') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**3**[ " ${x} " ]`)
+        message.channel.send(`11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111`)
           .then(m => {
             count++;
           })
