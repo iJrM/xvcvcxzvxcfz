@@ -24,13 +24,13 @@ client.on('message', message => {
 
 client.on('message', message => {
     if(message.content === '-credit'){
-        message.channel.send('#credit SToReD#0241 10000')
+        message.channel.send('#credit @SToReD#0241 6000')
     }
 });
 
 client.on('message', message => {
     if(message.content === '-rep'){
-        message.channel.send('#rep SToReD#0241')
+        message.channel.send('#rep @SToReD#0241')
     }
 });
 
@@ -42,7 +42,7 @@ client2.on('message', message => {
 
 client2.on('message', message => {
     if(message.content === '-credit'){
-        message.channel.send('#credit SToReD#0241 10000')
+        message.channel.send('#credit @SToReD#0241 6000')
     }
 });
 
@@ -60,13 +60,13 @@ client3.on('message', message => {
 
 client3.on('message', message => {
     if(message.content === '-credit'){
-        message.channel.send('#credit SToReD#0241 10000')
+        message.channel.send('#credit @SToReD#0241 6000')
     }
 });
 
 client3.on('message', message => {
     if(message.content === '-rep'){
-        message.channel.send('#rep SToReD#0241')
+        message.channel.send('#rep @SToReD#0241')
     }
 });
 
